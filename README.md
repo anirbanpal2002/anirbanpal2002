@@ -6,16 +6,16 @@
 <a href="mailto:pal.anirban.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Junior Software Developer specializing in backend architectures and cloud data pipelines. Currently building scalable solutions at **AIVISTA Technologies**.
+Junior Software Developer specializing in backend architectures at **AIVISTA Technologies**.
 
 ---
 
 ### 🚀 About Me
-- 🔭 **Current Focus:** High-performance Flask-based REST APIs and complex PL/pgSQL procedures.
-- ⚡ **Data Engineering:** Experienced in building multi-stage educational data ingestion pipelines using Azure and PySpark.
+- 🔭 **Current Focus:** Flask-based REST APIs and complex PL/pgSQL procedures.
+- ⚡ **Data Engineering:** Multi-stage educational data ingestion pipelines using Azure and PySpark.
 - 🎓 **Education:** B.Tech in CSE from Techno International Newtown (Class of 2024).
 - 🏆 **Achievement:** 2nd Runner-up at College-Level Smart India Hackathon.
-- 🌱 **Research:** Exploring V2V communication using network analysis and ML models.
+- 🌱 **Research:** V2V communication using network analysis and ML models.
 
 ### 🛠️ Technical Stack
 <p align="left">
@@ -31,11 +31,6 @@ Junior Software Developer specializing in backend architectures and cloud data p
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirbanpal2002&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
-### 📂 Featured Projects
-* **IoT Accident Detection:** Safety system using sensors and Flutter with reverse geocoding for emergency response.
-* **AI Autism Diagnosis:** Machine learning pipeline using SVC and Firebase for secure medical screening.
-* **Educational Web App:** Full-stack platform with optimized relational schemas for school board content.
 
 ---
 
